@@ -2,10 +2,10 @@
 
 Een AngulurJS app gerealiseerd met Firebase (database). 
 
-## Tip 
-maak via Firebase zie Google een account aan en verander de firebase code in index.html i.v.m. demo.
-Hierna nieuwe accounts aanmaken. 
-Test de app in twee verschillende browsers zodat het overduidelijk is dat wijzingen simultaan worden doorgevoerd. 
+## Note
+Maak via Firebase een account aan en verander de Firebase code in index.html i.v.m. demo.
+Hierna nieuwe user-accounts aanmaken. 
+Test de app in twee verschillende browsers zodat het overduidelijk is dat wijzingen simultaan worden doorgevoerd en er met rechten wordt gewerkt i.r.t. deleten c.q. geven van awa 
 
 
 
