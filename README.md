@@ -2,5 +2,6 @@
 
 Een AngulurJS app gerealiseerd met Firebase (database). 
 
-##Tip: maak even via fb een account aan en verander de firebase code in index.html i.v.m. demo. 
+## Tip 
+maak via fb een account aan en verander de firebase code in index.html i.v.m. demo. 
 
